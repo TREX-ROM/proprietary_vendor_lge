@@ -44,6 +44,14 @@ PRODUCT_COPY_FILES += \
     vendor/lge/w7/proprietary/etc/firmware/Signedrompatch_v24.bin:system/etc/firmware/Signedrompatch_v24.bin \
     vendor/lge/w7/proprietary/etc/firmware/Signedrompatch_v30.bin:system/etc/firmware/Signedrompatch_v30.bin \
     vendor/lge/w7/proprietary/etc/firmware/nfc_test.bin:system/etc/firmware/nfc_test.bin \
+    vendor/lge/w7/proprietary/etc/acdbdata/Bluetooth_cal.acdb:system/etc/acdbdata/Bluetooth_cal.acdb \
+    vendor/lge/w7/proprietary/etc/acdbdata/General_cal.acdb:system/etc/acdbdata/General_cal.acdb \
+    vendor/lge/w7/proprietary/etc/acdbdata/Global_cal.acdb:system/etc/acdbdata/Global_cal.acdb \
+    vendor/lge/w7/proprietary/tc/acdbdata/Handset_cal.acdb:system/tc/acdbdata/Handset_cal.acdb \
+    vendor/lge/w7/proprietary/etc/acdbdata/Hdmi_cal.acdb:system/etc/acdbdata/Hdmi_cal.acdb \
+    vendor/lge/w7/proprietary/etc/acdbdata/Headset_cal.acdb:system/etc/acdbdata/Headset_cal.acdb \
+    vendor/lge/w7/proprietary/etc/acdbdata/Speaker_cal.acdb:system/etc/acdbdata/Speaker_cal.acdb \
+    vendor/lge/w7/proprietary/etc/acdbdata/workspaceFile.qwsp:system/etc/acdbdata/workspaceFile.qwsp \
     vendor/lge/w7/proprietary/bin/bdaddr_loader:system/bin/bdaddr_loader \
     vendor/lge/w7/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/lge/w7/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
