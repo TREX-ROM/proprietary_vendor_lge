@@ -36,8 +36,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm8226-common/proprietary/bin/radish:system/bin/radish \
     vendor/lge/msm8226-common/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/lge/msm8226-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-    vendor/lge/msm8226-common/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
-    vendor/lge/msm8226-common/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/lge/msm8226-common/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/lge/msm8226-common/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/lge/msm8226-common/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
