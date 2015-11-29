@@ -19,7 +19,7 @@ DEVICE_PACKAGE_OVERLAYS := vendor/lge/msm8226-common/overlay
 
 PRODUCT_PACKAGES += \
     shutdownlistener
-	
+
 PRODUCT_PACKAGES += \
     libtime_genoff \
     libTimeService \
