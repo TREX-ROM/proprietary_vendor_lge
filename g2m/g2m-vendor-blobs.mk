@@ -134,7 +134,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g2m/proprietary/vendor/lib/libactuator_rohm_bu64243gwz.so:system/vendor/lib/libactuator_rohm_bu64243gwz.so \
     vendor/lge/g2m/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
     vendor/lge/g2m/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
-    vendor/lge/g2m/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/lge/g2m/proprietary/vendor/lib/hw/sensors.msm8226.so:system/vendor/lib/hw/sensors.msm8226.so \
     vendor/lge/g2m/proprietary/vendor/lib/libsensor1.so:system/vendor/lib/libsensor1.so \
     vendor/lge/g2m/proprietary/vendor/lib/libsensor_reg.so:system/vendor/lib/libsensor_reg.so \
