@@ -34,9 +34,7 @@ PRODUCT_PACKAGES += \
     libqmi_csi \
     libqmi_cci \
     libqmi_common_so \
-    libdsi_netctrl \
-    libmm-abl \
-    libHevcSwDecoder
+    libdsi_netctrl
 
 #com.qualcomm.services.location
 $(call inherit-product, vendor/lge/msm8226-common/msm8226-common-vendor-blobs.mk)
