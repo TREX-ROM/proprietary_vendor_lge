@@ -122,66 +122,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/w3ds/proprietary/vendor/lib/libmmqjpeg_codec.so:system/vendor/lib/libmmqjpeg_codec.so \
     vendor/lge/w3ds/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/lge/w3ds/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9714.so:system/vendor/lib/libactuator_dw9714.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9714_camcorder.so:system/vendor/lib/libactuator_dw9714_camcorder.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9714_camera.so:system/vendor/lib/libactuator_dw9714_camera.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9714_imx091.so:system/vendor/lib/libactuator_dw9714_imx091.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9714_imx091_camcorder.so:system/vendor/lib/libactuator_dw9714_imx091_camcorder.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9714_imx091_camera.so:system/vendor/lib/libactuator_dw9714_imx091_camera.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9714_imx219_475t.so:system/vendor/lib/libactuator_dw9714_imx219_475t.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9714_imx219_475t_camcorder.so:system/vendor/lib/libactuator_dw9714_imx219_475t_camcorder.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9714_imx219_475t_camera.so:system/vendor/lib/libactuator_dw9714_imx219_475t_camera.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9716.so:system/vendor/lib/libactuator_dw9716.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9716_camcorder.so:system/vendor/lib/libactuator_dw9716_camcorder.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9716_camera.so:system/vendor/lib/libactuator_dw9716_camera.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9718.so:system/vendor/lib/libactuator_dw9718.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9718_camcorder.so:system/vendor/lib/libactuator_dw9718_camcorder.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9718_camera.so:system/vendor/lib/libactuator_dw9718_camera.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9718_imx179.so:system/vendor/lib/libactuator_dw9718_imx179.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9718_imx179_camcorder.so:system/vendor/lib/libactuator_dw9718_imx179_camcorder.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9718_imx179_camera.so:system/vendor/lib/libactuator_dw9718_imx179_camera.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9718_imx219_495t.so:system/vendor/lib/libactuator_dw9718_imx219_495t.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9718_imx219_495t_camcorder.so:system/vendor/lib/libactuator_dw9718_imx219_495t_camcorder.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9718_imx219_495t_camera.so:system/vendor/lib/libactuator_dw9718_imx219_495t_camera.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9718_ov8858.so:system/vendor/lib/libactuator_dw9718_ov8858.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9718_ov8858_camcorder.so:system/vendor/lib/libactuator_dw9718_ov8858_camcorder.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_dw9718_ov8858_camera.so:system/vendor/lib/libactuator_dw9718_ov8858_camera.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_iu074.so:system/vendor/lib/libactuator_iu074.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_iu074_camcorder.so:system/vendor/lib/libactuator_iu074_camcorder.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_iu074_camera.so:system/vendor/lib/libactuator_iu074_camera.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_ov12830.so:system/vendor/lib/libactuator_ov12830.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_ov12830_camcorder.so:system/vendor/lib/libactuator_ov12830_camcorder.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_ov12830_camera.so:system/vendor/lib/libactuator_ov12830_camera.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_ov8825.so:system/vendor/lib/libactuator_ov8825.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_ov8825_camcorder.so:system/vendor/lib/libactuator_ov8825_camcorder.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_ov8825_camera.so:system/vendor/lib/libactuator_ov8825_camera.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_rohm_bu64243gwz.so:system/vendor/lib/libactuator_rohm_bu64243gwz.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_rohm_bu64243gwz_camcorder.so:system/vendor/lib/libactuator_rohm_bu64243gwz_camcorder.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libactuator_rohm_bu64243gwz_camera.so:system/vendor/lib/libactuator_rohm_bu64243gwz_camera.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libchromatix_hi544_common.so:system/vendor/lib/libchromatix_hi544_common.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libchromatix_hi544_default_video.so:system/vendor/lib/libchromatix_hi544_default_video.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libchromatix_hi544_preview.so:system/vendor/lib/libchromatix_hi544_preview.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libchromatix_hi544_snapshot.so:system/vendor/lib/libchromatix_hi544_snapshot.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libchromatix_imx111_common.so:system/vendor/lib/libchromatix_imx111_common.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libchromatix_imx111_default_video.so:system/vendor/lib/libchromatix_imx111_default_video.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libchromatix_imx111_preview.so:system/vendor/lib/libchromatix_imx111_preview.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libchromatix_imx111_snapshot.so:system/vendor/lib/libchromatix_imx111_snapshot.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libchromatix_imx119_common.so:system/vendor/lib/libchromatix_imx119_common.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libchromatix_imx119_default_video.so:system/vendor/lib/libchromatix_imx119_default_video.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libchromatix_imx119_preview.so:system/vendor/lib/libchromatix_imx119_preview.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libchromatix_imx219_common.so:system/vendor/lib/libchromatix_imx219_common.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libchromatix_imx219_default_video.so:system/vendor/lib/libchromatix_imx219_default_video.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libchromatix_imx219_preview.so:system/vendor/lib/libchromatix_imx219_preview.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libchromatix_imx219_snapshot.so:system/vendor/lib/libchromatix_imx219_snapshot.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libmmcamera2_frame_algorithm.so:system/vendor/lib/libmmcamera2_frame_algorithm.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libmmcamera2_is.so:system/vendor/lib/libmmcamera2_is.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libmmcamera_hi543.so:system/vendor/lib/libmmcamera_hi543.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libmmcamera_hi544.so:system/vendor/lib/libmmcamera_hi544.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libmmcamera_hi544_eeprom.so:system/vendor/lib/libmmcamera_hi544_eeprom.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libmmcamera_hi707.so:system/vendor/lib/libmmcamera_hi707.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libmmcamera_imx111.so:system/vendor/lib/libmmcamera_imx111.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libmmcamera_imx119.so:system/vendor/lib/libmmcamera_imx119.so \
-    vendor/lge/w3ds/proprietary/vendor/lib/libmmcamera_imx219.so:system/vendor/lib/libmmcamera_imx219.so \
     vendor/lge/w3ds/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
     vendor/lge/w3ds/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
     vendor/lge/w3ds/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
